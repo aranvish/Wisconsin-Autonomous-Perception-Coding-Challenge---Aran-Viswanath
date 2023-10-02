@@ -1,6 +1,7 @@
 # Wisconsin-Autonomous-Perception-Coding-Challenge---Aran-Viswanath
 ![answer](https://github.com/aranvish/Wisconsin-Autonomous-Perception-Coding-Challenge---Aran-Viswanath/assets/10343705/6e9dcca9-303a-4b6e-919c-6537c7e7cb6f)
-At first I tried to find the cones on the unmodified image but ran into 2 problems:
+At first I tried to find the cones on the unmodified image but ran into 2 problems:                                    
+
 -It took way too long 
 -The exit signs in the back were counted in the analysis
 
